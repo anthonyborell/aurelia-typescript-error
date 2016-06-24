@@ -1,3 +1,4 @@
+/// <reference path="../node_modules/aurelia-fetch-client/doc/whatwg-fetch.d.ts" />
 import {HttpClient} from 'aurelia-fetch-client';
 
 export class App {
